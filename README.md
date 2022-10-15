@@ -1,2 +1,2 @@
 # simple-app
-To do application
+todo app
